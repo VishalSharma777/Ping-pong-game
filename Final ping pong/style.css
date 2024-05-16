@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+ 
+  
+  
+}
+
+svg {
+  height: 100vmin;
+  left: calc(50% - 50vmin);
+  position: absolute;
+  width: 1200px;
+}
